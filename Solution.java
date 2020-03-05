@@ -6,5 +6,6 @@ public class Solution{
       System.out.println("Bye,world");
       System.out.println("Ja na Bhadve");
       System.out.printn("nahi jatu re ja");
+      System.out.println("jana tho padega");
   }
 }
