@@ -5,6 +5,5 @@ public class Solution{
     else
       System.out.println("Bye,world");
       System.out.println("Ja na Bhadve");
-      System.out.printnl("nahi jatu re");
   }
 }
